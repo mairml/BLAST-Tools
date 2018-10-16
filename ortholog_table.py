@@ -3,7 +3,7 @@
 #USES PROTEIN BLAST OUTPUTS!
 #Only takes the top hit.
 #In this example, and ortholog table is made for 
-#Aedes aegypti genes appearing in Anopheles darlingi and Drosophila melanogaster
+#Aedes aegypti genes with orthologs in Anopheles darlingi and Drosophila melanogaster
 #For custom use, change file names. 
 
 dictionary = {}#dictionary of ortholog values/Percent IDs per gene
