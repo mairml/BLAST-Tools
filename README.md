@@ -14,3 +14,5 @@ http://www.metagenomics.wiki/tools/blast/blastn-output-format-6
 seqfetch.py:
 Retreive sequences from your FASTA file given your BLAST output
 
+ortholog-table.py:
+Create ortholog table from pBLAST results from multiple species, including percent IDs. Example use included. 
