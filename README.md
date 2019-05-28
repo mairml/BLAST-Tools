@@ -16,3 +16,6 @@ Retreive sequences from your FASTA file given your BLAST output
 
 ortholog-table.py:
 Create ortholog table from pBLAST results from multiple species, including percent IDs. Example use included. 
+
+blast_diff.pyt:
+Find sequence hits in one BLAST output that are unique, and do not appear in another BLAST output
